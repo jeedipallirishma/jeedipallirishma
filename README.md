@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rishma 👋
 
-<!--
-**jeedipallirishma/jeedipallirishma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+🤖 AI/ML Enthusiast  
+📊 Data Analysis | Python | Machine Learning  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas
+- NumPy
+- TensorFlow
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 HealthGen-AI – AI based health assistant  
+🔹 Drug Side Effect Prediction – Deep learning model  
+🔹 Sales Data EDA – Data analysis using Python
+
+## Currently Learning
+Machine Learning, Deep Learning and AI applications.
+
+📫 Connect with me on LinkedIn :---- https://www.linkedin.com/in/jeedipalli-rishma-66bb3b334/
