@@ -6,9 +6,9 @@
 
 ## Skills
 - Python
-- Pandas
-- NumPy
-- TensorFlow
+- Pandas & NumPy
+- TensorFlow / Machine Learning
+- Data Analysis
 - Data Visualization
 
 ## Projects
